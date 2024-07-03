@@ -1,0 +1,2 @@
+# time_kadai2モジュールをimportで呼び出す
+import time_kadai2
